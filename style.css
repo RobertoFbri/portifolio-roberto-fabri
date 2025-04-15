@@ -10,4 +10,12 @@ h1{
 .titulo{
     color: aquamarine;
     text-align: center;
+    border: none;
+}
+button{
+    color: azure;
+    font-size:50px;
+}
+.imagem-paisagem{
+    width: 20px;
 }
